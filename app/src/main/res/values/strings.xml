@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TFEDeux</string>
+    <string name="nom_de_l_oeuvre">nom_de_l_oeuvre</string>
+    <string name="nom_de_l_artiste">nom_de_l_artiste</string>
+    <string name="adresse_oeuvre">adresse_oeuvre</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="coordonnees">coordonnees</string>
+    <string name="choix_liste_StreetArt">StreetValue</string>
+    <string name="choix_liste_Bd">Bd</string>
+    <string name="choix_liste_Resto">Resto</string>
+</resources>

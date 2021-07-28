@@ -1,0 +1,2 @@
+rootProject.name = "TFEDeux"
+include ':app'
